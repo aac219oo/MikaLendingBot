@@ -1,6 +1,6 @@
 *.pyc
 *.swp
-*.cfg
+#*.cfg
 *.json
 nohup.out
 error.log
